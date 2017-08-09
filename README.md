@@ -45,5 +45,5 @@ To build the program
       4. Add matlab run time libs to system environmental variables PATH:
      		PATH = C:\MATLAB_ROOT\runtime\win64
 GUI Usage
-	The GUI is easy to use, the processing steps has to follow the order:	Apply bilateral filter->Train/Load the dictionary->	Dictionary 	partition->Restore. You can select different source to be displayed 	from 	bombobox bellow.
+	The GUI is easy to use, the processing steps has to follow the order:	Apply bilateral filter->Train/Load the dictionary->	Dictionary 	partition->Restore. You can select different source to be displayed 	from 	combobox bellow.
       The trained dictionary for an image will be saved to directory 	"/dictionaries", with filename format "IMAGE NAME_NUM OF ATOMS.txt.	
